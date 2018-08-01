@@ -1,0 +1,5 @@
+*.cache
+*.props
+*.targets
+Lib/obj/project.assets.json
+Prog/obj/project.assets.json
